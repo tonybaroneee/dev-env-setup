@@ -15,7 +15,7 @@ echo "Installing tools..."
 brew install git node the_silver_searcher yarn python protobuf gitup jq
 
 echo "Setting up global npm packages..."
-npm install -g yarn pure-prompt http-server
+npm install -g pure-prompt http-server
 
 echo "Restoring iTerm settings..."
 defaults delete com.googlecode.iterm2
