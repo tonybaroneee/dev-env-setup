@@ -1,0 +1,3 @@
+Equinusocio.vsc-material-theme
+PKief.material-icon-theme
+TeddyDD.fish
