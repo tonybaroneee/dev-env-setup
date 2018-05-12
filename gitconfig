@@ -1,0 +1,10 @@
+[user]
+	signingkey = F63F77C65EBD1F0B
+	name = Anthony Barone
+	email = tonybaroneee@gmail.com
+[alias]
+	co = checkout
+[commit]
+	gpgsign = true
+[push]
+	default = current
